@@ -1,3 +1,3 @@
 Meu primeiro sistema no GIT.
 
-Alteração feita na master.
+Alteração feita pós subir no repositório remoto.
